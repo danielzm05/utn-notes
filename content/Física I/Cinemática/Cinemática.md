@@ -22,13 +22,15 @@ $$\vec{Δr}= \vec{r}(t+Δt)-\vec{r}(t)$$
 
 $$\vec{v_{m}}=\frac{\vec{Δr}}{Δt} = \frac{ \vec{r}(t+Δt)-\vec{r}(t)
 }{t_{2}-t_{1}}$$
-> [!info] $\vec{v_{m}}$ tendrá igual dirección y sentido que $\vec{Δr}$
+> [!INFO] 
+> $\vec{v_{m}}$ tendrá igual dirección y sentido que $\vec{Δr}$
 
 
 **Velocidad Instantánea:** Velocidad que tiene un objeto en un instante especifico de tiempo. Se calcula como el limite del vector $\vec{v_{m}}$ cuando el intervalo de tiempo tiende a 0.
 $$\vec{v}=\lim\limits_{Δt\to 0}\frac{\vec{Δr}}{Δt} =\lim\limits_{Δt\to 0}\frac{ \vec{r}(t+Δt)-\vec{r}(t)
 }{t_{2}-t_{1}}=\frac{d\vec{r}}{dt}$$
->[!INFO] La velocidad instantánea es *siempre* tangente a la trayectoria
+>[!INFO] 
+>La velocidad instantánea es *siempre* tangente a la trayectoria
 
 
 ---
