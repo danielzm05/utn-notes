@@ -23,10 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: {
-          name: "Quicksand",
-          weights:[700],
-        },
+        header: "Quicksand", 
         body: {
           name: "Quicksand",
           weights:[500],
