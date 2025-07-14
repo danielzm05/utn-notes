@@ -11,7 +11,7 @@ $\lim\limits_{x\to 2} \frac{x+3}{x-1}=\frac{(2)+3}{(2)-1} = 5$
 ### Limites Laterales
 Funcionan igual que los limites, solo que ahora vamos a analizar, cual es el comportamiento por derecha o por izquierda de nuestra función.
 
-![[image.png|300]]
+![[image 1.png|300]]
 
 - **Limite lateral por derecha:** Significa que nos acercamos a $a$ desde valores mayores (por la derecha). Se escribe: 
 	$\lim\limits_{x\to a{^+}} f(x)$
