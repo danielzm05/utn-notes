@@ -12,7 +12,9 @@ Rama de la física que describe le movimiento de los objetos sin estudiar sus ca
 
 
 **Vector Desplazamiento $\vec{Δr}$:** Representa la diferencia entre la posición final y la posición inicial:
-$$\vec{Δr}= \vec{r}(t+Δt)-\vec{r}(t)$$
+$$
+\vec{Δr}= \vec{r}(t+Δt)-\vec{r}(t)
+$$
 
 ---
 
@@ -20,15 +22,20 @@ $$\vec{Δr}= \vec{r}(t+Δt)-\vec{r}(t)$$
 
 **Velocidad Media $\vec{{v_{m}}}$:**  Es un vector que me indica cual es la velocidad promedio de un objeto entre dos puntos. Se calcula dividiendo el vector desplazamiento $\vec{Δr}$  y el tiempo transcurrido.
 
-$$\vec{v_{m}}=\frac{\vec{Δr}}{Δt} = \frac{ \vec{r}(t+Δt)-\vec{r}(t)
-}{t_{2}-t_{1}}$$
+$$
+\vec{v_{m}}=\frac{\vec{Δr}}{Δt} = \frac{ \vec{r}(t+Δt)-\vec{r}(t)
+}{t_{2}-t_{1}}
+$$
 > [!INFO] 
 > $\vec{v_{m}}$ tendrá igual dirección y sentido que $\vec{Δr}$
 
 
+
 **Velocidad Instantánea:** Velocidad que tiene un objeto en un instante especifico de tiempo. Se calcula como el limite del vector $\vec{v_{m}}$ cuando el intervalo de tiempo tiende a 0.
-$$\vec{v}=\lim\limits_{Δt\to 0}\frac{\vec{Δr}}{Δt} =\lim\limits_{Δt\to 0}\frac{ \vec{r}(t+Δt)-\vec{r}(t)
-}{t_{2}-t_{1}}=\frac{d\vec{r}}{dt}$$
+$$
+\vec{v}=\lim\limits_{Δt\to 0}\frac{\vec{Δr}}{Δt} =\lim\limits_{Δt\to 0}\frac{ \vec{r}(t+Δt)-\vec{r}(t)
+}{t_{2}-t_{1}}=\frac{d\vec{r}}{dt}
+$$
 >[!INFO] 
 >La velocidad instantánea es *siempre* tangente a la trayectoria
 
@@ -43,14 +50,18 @@ Aparece cuando en un movimiento, la velocidad cambia, es decir, no es constante.
 
 **Vector Aceleración:** Nos indica como cambia la velocidad en el tiempo.
 
-$$\vec{a}(t)=\frac{d\vec{v}}{dt}$$
+$$
+\vec{a}(t)=\frac{d\vec{v}}{dt}
+$$
 
 - Si $\vec{a}(t)=0$ la velocidad es **constante**
 - Si $\vec{a}(t) \neq 0$ la velocidad **cambia** (aumenta o disminuye)
 
 **Vector Aceleración Media:**
 
-$$\vec{a_{m}}=\frac{Δ\vec{v}}{Δt}=\frac{v_{f}-v_{i}}{t_{f}-t_{i}}$$
+$$
+\vec{a_{m}}=\frac{Δ\vec{v}}{Δt}=\frac{v_{f}-v_{i}}{t_{f}-t_{i}}
+$$
 ---
 
 ## MRU | Movimiento Rectilíneo uniforme

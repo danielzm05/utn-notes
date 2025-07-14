@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Bienvenido
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Repositorio con los contenido tomados en la UTN FRBA.
+El contenido de los archivos puede variar entre profesores y no se aseguran que estén completos,.
+Por favor utilice este repositorio como un complemento y no como fuente principal.
+
+
