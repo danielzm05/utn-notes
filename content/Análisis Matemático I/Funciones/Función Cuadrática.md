@@ -4,7 +4,7 @@ Donde
 - $a$: Coeficiente Principal
 - $b$: Coeficiente Lineal
 - $c$: Termino Independiente
-![[Pasted image 20250502092722.png|600]]
+![[Función Cuadrática.png]]
 ## Formas de la función
  #### Polinómica 
  ### $f(x)=ax{^2+bx+c}$

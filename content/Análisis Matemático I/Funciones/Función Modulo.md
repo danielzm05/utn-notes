@@ -1,6 +1,6 @@
 La [[Función]] módulo (o valor absoluto) es una [[Función a Trozos]] que asigna a cada número su distancia al cero en la recta real. Su forma básica es: $f(x) = |x|$
 
-![[Pasted image 20250502100259.png|600]]
+![[Función Modulo-1.png]]
 ### Definición por Partes:
 $$
 |x| = 

@@ -7,7 +7,7 @@ Donde:
 - Imagen: $R$
 
 
-![[Pasted image 20250502091328.png|600]]
+![[Función Lineal.png]]
 ### Calcular Pendiente
 $a=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}$
 ### Rectas paralelas y perpendiculares
