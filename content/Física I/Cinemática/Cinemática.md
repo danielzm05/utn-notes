@@ -18,6 +18,17 @@ $$
 
 ---
 
+## Rapidez
+
+La **rapidez** es una **cantidad escalar** que representa la velocidad sin dirección. Se calcula dividiendo la **distancia total recorrida** por el tiempo:
+
+$$
+v = \frac{\text{distancia recorrida}}{Δt}
+$$​
+
+> [!TIP]  
+> A diferencia de la velocidad, la rapidez **no depende de la dirección**, solo de **cuánto se recorrió en total**, por eso **siempre da positiva**.
+
 ## Velocidad
 
 **Velocidad Media $\vec{{v_{m}}}$:**  Es un vector que me indica cual es la velocidad promedio de un objeto entre dos puntos. Se calcula dividiendo el vector desplazamiento $\vec{Δr}$  y el tiempo transcurrido.

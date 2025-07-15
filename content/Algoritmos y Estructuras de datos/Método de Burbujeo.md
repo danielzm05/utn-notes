@@ -1,6 +1,6 @@
 #### Burbujeo Creciente
 
-```
+```cpp
 void Burbujeo(Sucursal sucursal[], int n){
 
   int i, j;
@@ -26,7 +26,7 @@ void Burbujeo(Sucursal sucursal[], int n){
 
 #### Burbujeo Decreciente
 
-```
+```cpp
 void BurbujeoD(Sucursal sucursal[], int n){
 
   int i, j;
@@ -51,7 +51,7 @@ void BurbujeoD(Sucursal sucursal[], int n){
 
 Ejemplo de uso:
 
-```
+```cpp
 #include <iostream>
 #include <cstring>
 using namespace std;

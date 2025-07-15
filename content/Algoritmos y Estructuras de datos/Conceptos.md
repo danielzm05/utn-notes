@@ -31,3 +31,9 @@ Conjunto de instrucciones permitidas y definidas por sus reglas sintácticas y s
 
 #### Algoritmo
 Refiere conjunto de reglas, ordenadas de forma lógica, finito y preciso para la solución de un problema, con utilización o no de un computador.
+
+#### Compilador
+Traductor de código fuente a ejecutable.
+
+---
+Continua leyendo: [[C++ Fundamentos]]

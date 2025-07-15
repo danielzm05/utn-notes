@@ -1,7 +1,7 @@
 > [!caution] El arreglo debe ir siempre en forma ascendente
-> 
 
-```
+
+```cpp
 #include <iostream>
 using namespace std;
 
