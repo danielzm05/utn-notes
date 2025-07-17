@@ -1,4 +1,4 @@
-Se dice que $f(x)$ es un infinitésimo en un punto (x=a) si y solo si el limite $\lim\limits_{x\to a}f(x)=0$
+Se dice que $f(x)$ es un infinitésimo en un punto ($x=a$) si y solo si el limite $\lim\limits_{x\to a}f(x)=0$
 
 **Ejemplos**
 
@@ -20,7 +20,7 @@ Se dice que $f(x)$ es un infinitésimo en un punto (x=a) si y solo si el limite 
 	- $\infty$ si el infinitésimo del denominador es de mayor orden infinitesimal que el numerador
 	
 	- Numero Real $K$, si ambos infinitésimos tienen igual orden infinitesimal
-	>***Si el numero real $K$ es 1, los infinitésimos son eqivalentes***
+	>***Si el numero real $K$ es 1, los infinitésimos son equivalentes***
 	
 
 ## Sustitución de infinitésimos equivalentes 
