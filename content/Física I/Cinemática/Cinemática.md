@@ -31,17 +31,6 @@ $$​
 
 ## Velocidad
 
-**Velocidad Media $\vec{{v_{m}}}$:**  Es un vector que me indica cual es la velocidad promedio de un objeto entre dos puntos. Se calcula dividiendo el vector desplazamiento $\vec{Δr}$  y el tiempo transcurrido.
-
-$$
-\vec{v_{m}}=\frac{\vec{Δr}}{Δt} = \frac{ \vec{r}(t+Δt)-\vec{r}(t)
-}{t_{2}-t_{1}}
-$$
-> [!INFO] 
-> $\vec{v_{m}}$ tendrá igual dirección y sentido que $\vec{Δr}$
-
-
-
 **Velocidad Instantánea:** Velocidad que tiene un objeto en un instante especifico de tiempo. Se calcula como el limite del vector $\vec{v_{m}}$ cuando el intervalo de tiempo tiende a 0.
 $$
 \vec{v}=\lim\limits_{Δt\to 0}\frac{\vec{Δr}}{Δt} =\lim\limits_{Δt\to 0}\frac{ \vec{r}(t+Δt)-\vec{r}(t)
@@ -50,6 +39,16 @@ $$
 >[!INFO] 
 >La velocidad instantánea es *siempre* tangente a la trayectoria
 
+
+
+**Velocidad Media $\vec{{v_{m}}}$:**  Es un vector que me indica cual es la velocidad promedio de un objeto entre dos puntos. Se calcula dividiendo el vector desplazamiento $\vec{Δr}$  y el tiempo transcurrido.
+
+$$
+\vec{v_{m}}=\frac{\vec{Δr}}{Δt} = \frac{ \vec{r}(t+Δt)-\vec{r}(t)
+}{t_{2}-t_{1}}
+$$
+> [!INFO] 
+> $\vec{v_{m}}$ tendrá igual dirección y sentido que $\vec{Δr}$
 
 ---
 ## Aceleración
