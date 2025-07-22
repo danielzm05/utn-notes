@@ -9,7 +9,7 @@ void Burbujeo(Sucursal sucursal[], int n){
 
   for ( i = 1; i < n; i++)
   {
-    for ( j = 1; j < n ; j++)
+    for ( j = 1; j <= n-i ; j++)
     {
       if(sucursal[j-1].codSucursal > sucursal[j].codSucursal){
 
@@ -34,7 +34,7 @@ void BurbujeoD(Sucursal sucursal[], int n){
 
   for ( i = 1; i < n; i++) {
 
-    for ( j = 1; j < n ; j++) {
+    for ( j = 1; j <= n-i ; j++) {
 
       if(sucursal[j-1].codSucursal < sucursal[j].codSucursal){
 
@@ -113,7 +113,7 @@ void Burbujeo(Sucursal sucursal[], int n){
 
   for ( i = 1; i < n; i++) {
   
-    for ( j = 1; j < n ; j++){
+    for ( j = 1; j <= n-i ; j++){
 
       if(sucursal[j-1].codSucursal > sucursal[j].codSucursal){
 
