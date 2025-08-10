@@ -16,11 +16,11 @@ void corteControl(tr v[], int N)
         
         while(i < N && control == v[i].id){
             cout << v[i].id;
-            // ....................
+            // mostrar elementos del subconjunto
             i++;
         }
 
-        // Mostrar datos del subconjunto
+        // Mostrar datos del subconjunto (subtotales, promedios)
     }
 
     // Mostrar datos totales

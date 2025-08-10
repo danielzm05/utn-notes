@@ -37,3 +37,9 @@ $$
 
 
 ![[Asíntota Horizontal.png]]
+
+
+---
+Otras asíntotas:
+- [[Asíntota Vertical]]
+- [[Asíntota Oblicua]]

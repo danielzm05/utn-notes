@@ -58,15 +58,15 @@ int BusquedaBinaria(int inf, int sup, int num[], int dato){
       
     }
 
-	  if(dato>num[mitad]){
+	if(dato>num[mitad]){
 	  inf=mitad;
 	  mitad=(inf+sup)/2;
 	
-	  }else if(dato<num[mitad]){
+	}else if(dato<num[mitad]){
 	
 		sup=mitad;
 		mitad=(inf+sup)/2;
-    }
+	}
 
   }
 

@@ -1,4 +1,4 @@
-Representación parcial de la estructura formal de una [[Organización]] mediante un diagrama. En él se muestran las funciones, sectores, jerarquías y dependencias internas.
+Representación parcial de la estructura formal de una [[3. Organización]] mediante un diagrama. En él se muestran las funciones, sectores, jerarquías y dependencias internas.
 
 - **División del trabajo:** Separación de una actividad compleja en componentes, con el objetivo de que las personas sean responsables de un conjunto limitado de actividades y no de la actividad como un todo
 

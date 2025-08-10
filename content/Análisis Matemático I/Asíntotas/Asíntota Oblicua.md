@@ -33,3 +33,7 @@ $$
 $$\boxed{
 \lim\limits_{x\to \pm \infty} f(x)-mx
 }$$
+
+---
+- [[Asíntota Vertical]]
+- [[Asíntota Horizontal]]

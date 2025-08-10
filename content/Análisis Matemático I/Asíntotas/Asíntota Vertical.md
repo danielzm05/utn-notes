@@ -41,6 +41,13 @@ Se forma cuando la función empieza a tender a números mayores o menores cuando
 
 
 
+> [!important] Cantidad de asíntotas verticales de una función
+> Una función puede tener más de una asíntota vertical.
+
+---
+- [[Asíntota Horizontal]]
+- [[Asíntota Oblicua]]
+
 
 
 
