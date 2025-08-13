@@ -9,11 +9,11 @@ Se cambia el valor de verdad.
 Solo es verdadero si ambas proposiciones son verdaderas
 
 | p   | q   | p ∧ q |
-|-----|-----|--------|
-| V   | V   | V      |
-| V   | F   | F      |
-| F   | V   | F      |
-| F   | F   | F      |
+| --- | --- | ----- |
+| V   | V   | V     |
+| V   | F   | F     |
+| F   | V   | F     |
+| F   | F   | F     |
 #### Disyunción (p v q)
 Será verdadera **si una de las proposiciones es verdadera**
 
