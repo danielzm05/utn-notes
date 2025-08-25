@@ -85,9 +85,9 @@ V!=S      A<B ^KxPEykpZ
 BCD ^JaShblbG
 
 ## Element Links
-2XHfyVC2: [[content/Arquitectura de la computadoras/Introducción/Conceptos#Computadora]]
+2XHfyVC2: [[content/Arquitectura de la computadoras/Primer Cuatrimestre/1. Introducción/Conceptos#Computadora]]
 
-o7Hf3CrS: [[content/Arquitectura de la computadoras/Introducción/Conceptos#Modelo de Von Neumann]]
+o7Hf3CrS: [[content/Arquitectura de la computadoras/Primer Cuatrimestre/1. Introducción/Conceptos#Modelo de Von Neumann]]
 
 IKR6SKaN: [[Sistemas de Numeración (Unidad II)]]
 
@@ -97,7 +97,7 @@ cFPeWQrb: [[Sistemas de Numeración (Unidad II)]]
 
 vyWGvhrg: [[Sistemas de Numeración (Unidad II)]]
 
-EQxBRghE: [[content/Arquitectura de la computadoras/Introducción/Conceptos]]
+EQxBRghE: [[content/Arquitectura de la computadoras/Primer Cuatrimestre/1. Introducción/Conceptos]]
 
 Rzn0SO0x: [[Flags]]
 ,
@@ -105,11 +105,11 @@ Rzn0SO0x: [[Flags]]
 
 Ptj8rOvk: [[Variables BCD#Tipos de Representación BCD]]
 
-rCVhdwep: [[content/Arquitectura de la computadoras/Introducción/Conceptos]]
+rCVhdwep: [[content/Arquitectura de la computadoras/Primer Cuatrimestre/1. Introducción/Conceptos]]
 
-YMHNMsoa: [[content/Arquitectura de la computadoras/Introducción/Conceptos]]
+YMHNMsoa: [[content/Arquitectura de la computadoras/Primer Cuatrimestre/1. Introducción/Conceptos]]
 
-nG8KsaW2: [[content/Arquitectura de la computadoras/Introducción/Conceptos]]
+nG8KsaW2: [[content/Arquitectura de la computadoras/Primer Cuatrimestre/1. Introducción/Conceptos]]
 
 ## Embedded Files
 8c00568bd63fa903e2e07f6b4d847ff00f7c8976: [[Pasted Image 20250711155013_624.png]]
