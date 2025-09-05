@@ -1,6 +1,6 @@
 Es una ecuación que relaciona las coordenadas espaciales de la partícula $(x,y,z)$ **sin que aparezca el tiempo.**
 
-- Describe la forma del camino que sigue la [[Ecuación de la Trayectoria|Partícula]] al moverse.
+- Describe la forma del camino que sigue la [[Ecuación de la trayectoria|Partícula]] al moverse.
 - Se obtiene a través de sus ecuaciones paramétricas.
 
 ---
