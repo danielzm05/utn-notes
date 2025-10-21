@@ -7,4 +7,6 @@ title: Bienvenido
 El contenido de los archivos puede variar entre profesores y no se aseguran que estén completos.
 Por favor utilice este repositorio como un complemento y no como fuente principal.
 
+Creado por [Daniel Zerpa](https://github.com/danielzm05)
+
 

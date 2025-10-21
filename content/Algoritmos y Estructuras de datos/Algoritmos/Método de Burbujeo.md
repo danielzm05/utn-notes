@@ -1,4 +1,4 @@
-El **ordenamiento de burbuja** (_**Bubble Sort**_ en inglés) es un sencillo algoritmo de ordenamiento Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado. Es necesario revisar varias veces toda la lista hasta que no se necesiten más intercambios, lo cual significa que la lista está ordenada.
+ El **ordenamiento de burbuja** (_**Bubble Sort**_ en inglés) es un sencillo algoritmo de ordenamiento Funciona revisando cada elemento de la lista que va a ser ordenada con el siguiente, intercambiándolos de posición si están en el orden equivocado. Es necesario revisar varias veces toda la lista hasta que no se necesiten más intercambios, lo cual significa que la lista está ordenada.
 
 ![[Método de Burbujeo.png|452x325]]
 #### Burbujeo Creciente
@@ -131,6 +131,4 @@ void Burbujeo(Sucursal sucursal[], int n){
   }
 
 }
-
-  
 ```
